@@ -15,3 +15,5 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shockias&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
