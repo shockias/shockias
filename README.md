@@ -1,3 +1,5 @@
+<img src = "githubbanner.JPG"/>
+
 ## Salve!! Eu me chamo Arthur, mais conhecido como Shock ⚡
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRbToHzpbUETPGLACu2BYMA)
