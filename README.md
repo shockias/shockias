@@ -1,4 +1,4 @@
-<img src = "githubbanner.JPG"/>
+<img src = "githubbanner.jpg"/>
 
 ## Salve!! Eu me chamo Arthur, mais conhecido como Shock ⚡
 
