@@ -16,4 +16,4 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shockias&bg_color=#f2e9e4&color=282b4a&line=282b4a&point=282b4a&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shockias&bg_color=#F2E9E4&color=282b4a&line=282b4a&point=282b4a&area=true&hide_border=false" width="100%"/>
