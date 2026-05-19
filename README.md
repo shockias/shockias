@@ -1,21 +1,36 @@
 <img src = "githubanner.jpg"/>
 
-## Salve!! Eu me chamo Arthur, mais conhecido como Shock ⚡
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRbToHzpbUETPGLACu2BYMA)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur.sales03)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/shockias)
+<h2 align="center"><img src="images/user-solid.png" width="25px"> Sobre mim </h2>
 
-![Shock GitHub stats](https://github-readme-stats.vercel.app/api?username=shockhswag&show_icons=true&theme=radical)
+<p>
 
-## O que eu estou aprendendo/Já aprendi
+</p>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p>
+
+</p>
+
+<p align="center">
+  <a>
+    <img href="https://www.linkedin.com/in/arthur-pereira-sales-55439426a/" src="https://img.shields.io/badge/LinkedIn-101516?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a>
+    <img href="https://linktr.ee/shockias" src="https://img.shields.io/badge/Linktree-101516?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+  <a>
+    <img href="mailto:arthurpsales11@gmail.com" src="https://img.shields.io/badge/Gmail-101516?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<h2 align="center"><img src="images/computer-solid.png" width="25px"> Tecnologias </h2>
+
+<div style="display: inline_block" align="center">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-101516?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-101516?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-101516?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-101516?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-101516?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
 </div><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shockias&bg_color=101516&color=6eee8e&line=6eee8e&point=6eee8e&area=true&hide_border=false" width="100%"/>
