@@ -1,4 +1,4 @@
-<img src = "githubbanner.jpg"/>
+<img src = "githubanner.jpg"/>
 
 ## Salve!! Eu me chamo Arthur, mais conhecido como Shock ⚡
 
@@ -18,4 +18,4 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shockias&bg_color=f6e9d9&color=282b4a&line=282b4a&point=282b4a&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shockias&bg_color=101516&color=6eee8e&line=6eee8e&point=6eee8e&area=true&hide_border=false" width="100%"/>
