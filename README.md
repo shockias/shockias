@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <a>
-    <img href="https://www.linkedin.com/in/arthur-pereira-sales-55439426a/" src="https://img.shields.io/badge/LinkedIn-101516?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/arthur-pereira-sales-55439426a/" >
+    <img src="https://img.shields.io/badge/LinkedIn-101516?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a>
-    <img href="https://linktr.ee/shockias" src="https://img.shields.io/badge/Linktree-101516?style=for-the-badge&logo=linktree&logoColor=white">
+  <a href="https://linktr.ee/shockias" >
+    <img src="https://img.shields.io/badge/Linktree-101516?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
-  <a>
-    <img href="mailto:arthurpsales11@gmail.com" src="https://img.shields.io/badge/Gmail-101516?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:arthurpsales11@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-101516?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
