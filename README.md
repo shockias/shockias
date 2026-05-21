@@ -46,6 +46,6 @@
 <br/>
 <br/>
   
-<h2 align="center"><img src="images/github.png" width="25px"> Contribuições </h2>
+<h2 align="center"><img src="images/github.png" width="30px"> Contribuições </h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shockias&bg_color=101516&color=dee5ed&line=dee5ed&point=dee5ed&area=true&hide_border=false" width="100%"/>
