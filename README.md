@@ -14,22 +14,17 @@
 
 <h2 align="center"><img src="images/user-solid.png" width="25px"> Sobre mim </h2>
 
-<img src="images/kuroko.gif" width="260" align="left" style="margin-right: 15px"/>
+<img src="images/kuroko.gif" width="210" align="right"/>
 
 <div>
   <h3>Olá! Eu me chamo Arthur</h3>
   
   <p>
-    Atualmente sou estudante de programação. Desde pequeno sempre gostei de tecnologia, jogos e criar coisas. Então no ensino médio tive meu primeiro contato com programação e em 2026 decidi ir de vez: estudando pra me tornar desenvolvedor e criar soluções reais. No tempo livre gosto de: jogos, música, filmes, séries, animes, basquete e futebol.
+    Atualmente sou estudante de programação. Desde pequeno sempre gostei de tecnologia, jogos e criar coisas. Então no ensino médio tive meu primeiro contato com programação e em 2026 decidi ir de vez, estudando pra me tornar desenvolvedor e criar soluções reais. No tempo livre gosto de: jogos, música, filmes, séries, animes, basquete e futebol.
   </p>
 
-  <p align="center">
-    <em><b> Estudante de ADS na faculdade ESUDA (3° periodo) </b></em> <br/>
-    <em><b> Estagiário de suporte técnico na SEAP-PE </b></em><br/>
-    <em><b> Streamer na Kick e Twitch  </b></em><br/>
-  </p>
 </div>
-
+<br/>
 <h2 align="center"><img src="images/computer-solid.png" width="25px"> Tecnologias e Ferramentas </h2>
 
 <p align="center">
