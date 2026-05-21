@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Markdown-101516?style=for-the-badge&logo=markdown&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-101516?logo=visualstudiocode&style=for-the-badge&logoColor=fff" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-101516?logo=intellij-idea&style=for-the-badge" />
-<br/>
+</p>
 <br/>
   
 <h2 align="center"><img src="images/github.png" width="30px"> Contribuições </h2>
