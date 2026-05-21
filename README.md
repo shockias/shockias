@@ -16,7 +16,7 @@
 
 <img src="images/kuroko.gif" width="210" align="right" style="margin-left: 15px;"/>
 
-<div>
+<div align="left">
   <h3>Olá! Eu me chamo Arthur</h3>
   
   <p>
@@ -24,6 +24,7 @@
   </p>
 
 </div>
+<br/>
 <br/>
 <h2 align="center"><img src="images/computer-solid.png" width="25px"> Tecnologias e Ferramentas </h2>
 
