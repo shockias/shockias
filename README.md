@@ -14,7 +14,7 @@
 
 <h2 align="center"><img src="images/user-solid.png" width="25px"> Sobre mim </h2>
 
-<img src="images/kuroko.gif" width="210" align="right"/>
+<img src="images/kuroko.gif" width="210" align="right" style="margin-left: 15px;"/>
 
 <div>
   <h3>Olá! Eu me chamo Arthur</h3>
