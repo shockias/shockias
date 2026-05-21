@@ -44,5 +44,8 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-101516?logo=visualstudiocode&style=for-the-badge&logoColor=fff" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-101516?logo=intellij-idea&style=for-the-badge" />
 <br/>
+<br/>
+  
+<h2 align="center"><img src="images/github.png" width="25px"> Contribuições </h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shockias&bg_color=101516&color=dee5ed&line=dee5ed&point=dee5ed&area=true&hide_border=false" width="100%"/>
